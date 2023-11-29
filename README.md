@@ -1,27 +1,34 @@
-# FirstAngularProject
+# Angular First Step
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+This project is a part of my learning process in Angular, where I've focused on understanding and implementing fundamental concepts such as components, services, routing, and HTTP communication.
 
-## Development server
+## Table of Contents
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Part 1: Form](#part-1-form)
+- [Part 2: Routing and Fake Store](#part-2-routing-and-fake-store)
+- [Screenshots](#screenshots)
+- [Notes](#notes)
 
-## Code scaffolding
+## Part 1: Form
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This part of the project is designed to help me practice working with forms in Angular.
 
-## Build
+## Part 2: Routing and Fake Store
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+In this section, I've implemented routing functionality to navigate between different views. Additionally, I've utilized the Angular HTTP client to communicate with a fake API and create a simple fake store.
 
-## Running unit tests
+## Screenshots
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Screenshot 1](Form.JPG)
+Demo picture of the form.
 
-## Running end-to-end tests
+![Screenshot 2](Store.JPG)
+Demo picture of the store
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Notes
 
-## Further help
+This project was created as a part of my Angular learning journey. Feel free to explore the code, make changes, and provide feedback.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+*This README.md was mostly written with the help of [ChatGPT](https://www.openai.com/).* 
